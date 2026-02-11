@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxwell99-25
-- 👀 I’m interested in System programming and applications programming   
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in web development  
+- 🌱 I’m currently learning Node.Js  for backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ..
